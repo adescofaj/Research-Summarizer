@@ -2,6 +2,10 @@
 
 AI-powered tool that automatically generates summaries of research papers using GPT-4o-mini and intelligent document processing.
 
+## Demo
+
+🔗 **[View Demo](https://drive.google.com/drive/folders/1WwljcKzCKDyFNglvSzl_U0MenMS4V9uj?usp=drive_link)**
+
 ## Features
 
 - Upload PDF/DOCX research papers
