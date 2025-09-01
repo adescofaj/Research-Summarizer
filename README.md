@@ -2,10 +2,6 @@
 
 AI-powered tool that automatically generates summaries of research papers using GPT-4o-mini and intelligent document processing.
 
-## Demo
-
-🔗 **[View Demo](https://drive.google.com/drive/folders/1WwljcKzCKDyFNglvSzl_U0MenMS4V9uj?usp=drive_link)**
-
 ## Features
 
 - Upload PDF/DOCX research papers
@@ -66,3 +62,7 @@ npm run dev
 - **Prompt Engineering**: Dynamic prompts based on summary type and user preferences
 - **Cost Control**: ~2,500 tokens per request vs 15,000+ for full documents
 - **Error Handling**: Robust document processing with fallback mechanisms
+
+## Demo
+
+🔗 **[View Demo](https://drive.google.com/drive/folders/1WwljcKzCKDyFNglvSzl_U0MenMS4V9uj?usp=drive_link)**
