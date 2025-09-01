@@ -88,7 +88,7 @@ const HomeScreen = ({ onNavigate }) => (
           <a href="#" className="hover:text-gray-700">Contact Us</a>
         </div>
         <div className="text-center text-sm text-gray-400 mt-4">
-          © 2024 Research Summarizer. All rights reserved.
+          © 2025 Research Summarizer. All rights reserved.
         </div>
       </div>
     </footer>
